@@ -37,7 +37,7 @@
 ---
 
 ### 🔭 Current Project:
-- Task Achiver: A professional To-Do Manager with filtering, dark mode & clean UI
+- Task Achiever: A professional To-Do Manager with filtering, dark mode & clean UI
 
 ---
 
