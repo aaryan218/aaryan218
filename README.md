@@ -37,7 +37,7 @@
 ---
 
 ### 🔭 Current Project:
-- TaskFlow: A professional To-Do Manager with filtering, dark mode & clean UI
+- Task Achiver: A professional To-Do Manager with filtering, dark mode & clean UI
 
 ---
 
