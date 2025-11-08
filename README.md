@@ -36,8 +36,9 @@
 
 ---
 
-### 🔭 Current Project:
-- Task Achiever: A professional To-Do Manager with filtering, dark mode & clean UI
+### 🔭  Projects:
+- Task Achiever: A professional To-Do Manager with filtering, dark mode & clean UI {frontend}
+- Leendaen: A project inspired by Razorpay. {frontend}
 
 ---
 
