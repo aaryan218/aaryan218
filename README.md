@@ -1,18 +1,75 @@
-# 💫 About Me:
-<br>I am a Computer Science undergraduate with a background in frontend development, working primarily with HTML, CSS, and JavaScript, and currently learning React. In parallel, I am transitioning toward AI engineering by building a strong foundation in Python, machine learning theory, and core computer science concepts.<br><br>Current Focus<br><br>At this stage, my priority is depth over speed. I am focused on understanding fundamentals properly before relying on abstractions or advanced frameworks. My learning process combines structured study with hands-on experimentation, particularly through Kaggle, to reinforce theoretical concepts with practice.<br><br>What You’ll Find Here<br><br>This GitHub profile documents my learning journey—frontend projects, early machine learning experiments, and incremental progress as I prepare for internships and entry-level roles. Each project reflects my intent to write clean code and build a solid understanding, rather than chase quick results.<br><br>Direction Ahead<br><br>I am steadily moving from frontend development toward applied AI, with the long-term goal of building reliable, real-world systems that combine sound engineering with data-driven decision-making.
+# Aaryan Barthwal
 
+**Machine Learning & Data Science Engineer (Focused on Applied Systems)**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaryanbarthwal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaryanbarthwal2187@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aaryan218&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=aaryan218&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryan218&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## About
+I focus on building machine learning systems with strong emphasis on **data preprocessing, implementation, and reliability**.  
+My approach is practical—understanding how models work internally and applying them effectively on real datasets.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aaryan218&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I prioritize **clean data pipelines, reproducible results, and solid implementation over surface-level complexity**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## Core Expertise
+- **Python**
+- **Machine Learning (scikit-learn)**
+- **Data Analysis (Pandas, SQL)**
+
+## Technical Stack
+NumPy • Matplotlib • Seaborn
+
+---
+
+## Engineering Focus
+- Implementing machine learning algorithms from scratch (NumPy-based)  
+- Designing **data preprocessing pipelines** for structured datasets  
+- Building models that are **reliable, testable, and interpretable**  
+
+---
+
+## Work
+
+### RTW Prediction Model *(Ongoing)*
+Machine learning project focused on classification-based prediction.
+
+- Designed and implemented **data preprocessing pipeline**
+- Contributed to **Random Forest-based classification workflow**
+- Developed and validated **test cases to ensure error-free execution**
+- Worked on preparing data for consistent and reliable model performance
+
+---
+
+## Current Direction
+- Advancing in **applied machine learning**
+- Improving **model evaluation and performance tuning**
+- Strengthening real-world **data analysis and insight extraction**
+
+---
+
+## Foundations
+- Strong understanding of **Data Structures & Algorithms (theoretical)**
+- Comfortable with **object-oriented programming in Python**
+- Focused on **writing clean, structured, and maintainable code**
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aaryan218" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+</p>
+
+---
+
+## Contact
+- Email: aaryanbarthwal2187@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/aaryanbarthwal  
+
+---
+
+## Positioning
+Focused on becoming a **Machine Learning Engineer** capable of building **practical, data-driven systems** with strong implementation foundations.
