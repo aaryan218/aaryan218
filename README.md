@@ -1,74 +1,150 @@
+<div align="center">
+
 # Aaryan Barthwal
 
-**Machine Learning & Data Science Engineer (Focused on Applied Systems)**
+### Applied Machine Learning & Data Science Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Building+Reliable+AI+Systems;Focused+on+Applied+ML+%26+Engineering" />
 
 ---
-
-## About
-I focus on building machine learning systems with strong emphasis on **data preprocessing, implementation, and reliability**.  
-My approach is practical—understanding how models work internally and applying them effectively on real datasets.
-
-I prioritize **clean data pipelines, reproducible results, and solid implementation over surface-level complexity**.
-
----
-
-## Core Expertise
-- **Python**
-- **Machine Learning (scikit-learn)**
-- **Data Analysis (Pandas, SQL)**
-
-## Technical Stack
-NumPy • Matplotlib • Seaborn
-
----
-
-## Engineering Focus
-- Implementing machine learning algorithms from scratch (NumPy-based)  
-- Designing **data preprocessing pipelines** for structured datasets  
-- Building models that are **reliable, testable, and interpretable**  
-
----
-
-## Work
-
-### RTW Prediction Model *(Ongoing)*
-Machine learning project focused on classification-based prediction.
-
-- Designed and implemented **data preprocessing pipeline**
-- Contributed to **Random Forest-based classification workflow**
-- Developed and validated **test cases to ensure error-free execution**
-- Worked on preparing data for consistent and reliable model performance
-
----
-
-## Current Direction
-- Advancing in **applied machine learning**
-- Improving **model evaluation and performance tuning**
-- Strengthening real-world **data analysis and insight extraction**
-
----
-
-## Foundations
-- Strong understanding of **Data Structures & Algorithms (theoretical)**
-- Comfortable with **object-oriented programming in Python**
-- Focused on **writing clean, structured, and maintainable code**
-
----
-
-## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aaryan218" />
-  
+  <a href="https://github.com/Aaryan218">
+    <img src="https://img.shields.io/github/followers/Aaryan218?label=Followers&style=for-the-badge" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aaryanbarthwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:aaryanbarthwal2187@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
----
-
-## Contact
-- Email: aaryanbarthwal2187@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/aaryanbarthwal  
+</div>
 
 ---
 
-## Positioning
-Focused on becoming a **Machine Learning Engineer** capable of building **practical, data-driven systems** with strong implementation foundations.
+# About Me
+
+I focus on building practical machine learning systems with strong emphasis on:
+
+* Data preprocessing
+* Reliable ML pipelines
+* Mathematical understanding of models
+* Reproducible workflows
+* Clean engineering practices
+
+My approach is implementation-first — understanding how systems work internally instead of relying only on abstractions.
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+
+### Machine Learning & Data Science
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scikitlearn,matplotlib" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+# Engineering Focus
+
+* Building ML algorithms from scratch using NumPy
+* Designing structured preprocessing pipelines
+* Developing interpretable machine learning workflows
+* Writing modular and maintainable Python code
+* Understanding ML mathematically and systemically
+
+---
+
+# Featured Project
+
+## RTW Prediction Model *(Ongoing)*
+
+Machine learning project focused on classification-based prediction using structured datasets.
+
+### Contributions
+
+* Designed preprocessing and feature engineering workflows
+* Worked on Random Forest classification pipelines
+* Developed validation and testing workflows
+* Improved data consistency and preprocessing reliability
+* Focused on reproducibility and stable execution
+
+---
+
+# Additional Work
+
+## Synthetic Dataset Engineering
+
+Created synthetic datasets (~60K+ rows) for:
+
+* Exploratory Data Analysis
+* Feature Engineering
+* Predictive Modeling
+* Data Pipeline Testing
+
+---
+
+# Current Learning
+
+* Advanced Machine Learning
+* Deep Learning Fundamentals
+* Model Optimization
+* Applied Statistics
+* AI System Design
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaryan218&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan218&theme=tokyonight" />
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="mailto:aaryanbarthwal2187@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/aaryanbarthwal">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Aaryan218">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Focused on becoming a Machine Learning Engineer capable of building production-oriented AI systems with strong implementation and engineering foundations.
+
+</div>
