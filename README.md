@@ -164,19 +164,6 @@ Focused on extracting meaningful insights and improving data quality for machine
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aaryan218&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aaryan218&theme=tokyonight" />
-
-</div>
-
-
----
-
 # Connect With Me
 
 <div align="center">
