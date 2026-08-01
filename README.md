@@ -1,8 +1,6 @@
 <div align="center">
 
-# Aaryan Barthwal
-
-### Applied Machine Learning & Data Science Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00d9ff&height=240&section=header&text=AARYAN%20BARTHWAL&fontSize=46&fontColor=e6f6ff&animation=fadeIn&fontAlignY=35&desc=Machine%20Learning%20%7C%20Data%20Science%20%7C%20AI%20Systems&descAlignY=55&descSize=18&descColor=8ecfff" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Building+Reliable+AI+Systems;Focused+on+Applied+ML+%26+Engineering;AI+%7C+ML+%7C+Data+Science+%7C+Systems" />
 
